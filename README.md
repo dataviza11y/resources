@@ -3,7 +3,6 @@
 A non-exhaustive and in-progress list of people and resources in Accessibility and Data Visualization
 
 ## People and Articles in Dataviz & Accessibility (Web)
-[Thanks to Frank Elavskey and Amy Cesal (Twitter thread)](https://twitter.com/FrankElavsky/status/1288221820554891266?s=20)
 
 ### Doug Schepers [@shepazu](https://twitter.com/shepazu?lang=en) 
 * [Invisible Visualization – Reinventing Fire](http://schepers.cc/invisible-visualization)  (2014)
