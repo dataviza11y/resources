@@ -105,7 +105,11 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 *  [Accessibility in amCharts 4](https://www.amcharts.com/accessibility/accessible-charts/) 
 
 ### Chart.js
-*  [Accessibility in Chart.js](https://www.chartjs.org/docs/latest/general/accessibility.html) 
+*  [Accessibility in Chart.js](https://www.chartjs.org/docs/latest/general/accessibility.html)
+
+### Vega & Vega-Lite
+
+* [Flight Passengers Example](https://vega.github.io/vega/examples/flight-passengers/)
 
 ##  People and Articles in Dataviz & Accessibility (Academia)
 
