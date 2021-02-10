@@ -121,6 +121,13 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 * [VCC Texture Utility](https://github.com/visa/visa-chart-components/blob/master/packages/utils/README.md#textures)
 
 
+## Design systems with dataviz + accessibility
+
+### Adobe Spectrum Design System
+The bar chart component is just one example, there are more but no direct link to the "dataviz" section of the design system.
+* [Adobe Spectrum Bar chart Component](https://spectrum.adobe.com/page/bar-chart/)
+
+
 ##  People and Articles in Dataviz & Accessibility (Academia)
 
 ### [Reaching Broader Audiences With Data Visualization](https://ieeexplore.ieee.org/document/9023497)
