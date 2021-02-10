@@ -96,6 +96,9 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 ### Lisa Charlotte Rost  [Lisa Charlotte Rost Twitter](https://twitter.com/lisacrost) 
 *  [What to Consider When Choosing Colors for Data Visualization](https://www.dataquest.io/blog/what-to-consider-when-choosing-colors-for-data-visualization/) 
 
+### Chris DeMartini  [Chris DeMartini Twitter](https://twitter.com/demartsc) 
+*  [A Tableau Accessibility Journey - Part I](https://www.datablick.com/blog/2021/2/4/a-tableau-accessibility-journey-part-i) 
+
 ## Javascript Dataviz Frameworks with Accessibility
 
 ### Highcharts
