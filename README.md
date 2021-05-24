@@ -99,6 +99,17 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 ### Chris DeMartini  [Chris DeMartini Twitter](https://twitter.com/demartsc) 
 *  [A Tableau Accessibility Journey - Part I](https://www.datablick.com/blog/2021/2/4/a-tableau-accessibility-journey-part-i) 
 
+### Leonie Watson [Leonie Watson Twitter](https://twitter.com/LeonieWatson)
+*  [Accessible SVG Line Graphs](https://tink.uk/accessible-svg-line-graphs/)
+*  [Accessible SVG Tables](https://tink.uk/accessible-svg-tables/)
+
+### Sergei Kruger [Sergei Kruger Twitter](https://twitter.com/_sergeikriger)
+*  [Talk: Accessible Charts Done Right](https://www.youtube.com/watch?v=ayl2ue9vIFc)
+*  [Slides: Accessible Charts Done Right](https://www.sergeikriger.com/slides/accessible-charts-done-right/)
+
+### Luc Guillemot [Luc Guillemot Twitter](https://twitter.com/lucguillemot)
+*  [How Does This Data Sound?](https://blog.interactivethings.com/how-does-this-data-sound-945ed27a1a95)
+
 ## Javascript Dataviz Frameworks with Accessibility
 
 ### Highcharts
