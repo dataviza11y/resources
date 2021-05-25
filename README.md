@@ -18,8 +18,8 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 ### [Data Visualization Society [Home page]](http://datavisualizationsociety.com/)  (org)  [DataVizSociety Twitter](https://twitter.com/datavizsociety?lang=en)  run by  [@AmyCesal](https://twitter.com/amycesal?lang=en)  and  [@abmakulec](https://twitter.com/abmakulec?lang=en)  and many others (to be listed)
 *  [Accessibility – Nightingale – Medium](https://medium.com/nightingale/tagged/accessibility) 
 
-### Frank Elavsky (he/him)  [Frank Elavsky Twitter](https://twitter.com/frankelavsky?lang=en) 
-*  [Data Visualization and Accessibility on the Web](https://knowbility.org/programs/accessu/2020/data-visualization-and-accessibility-on-the-web/)
+### Frank Elavsky (he/him)  [Frank Elavsky Twitter](https://twitter.com/frankelavsky?lang=en)
+*  [Data Visualization and Accessibility on the Web | May 2020](https://knowbility.org/programs/accessu-2020/data-visualization-and-accessibility-on-the-web/)
 *  [Data Visualization and Accessibility on the Web - slides](https://drive.google.com/file/d/1OFmCvSt6bGk7u0kH6Kf5tIVQPMZ-wEKw/view?usp=sharing)
 
 ### Amy Cesal (she/her)  [Amy Cesal Twitter](https://twitter.com/amycesal?lang=en) 
