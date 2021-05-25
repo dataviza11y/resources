@@ -5,6 +5,8 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 ## People and Articles in Dataviz & Accessibility (Web)
 
 ### Doug Schepers [Doug Schepers Twitter](https://twitter.com/shepazu?lang=en) 
+* [Making Inclusive Charts | AccessU | May 2021](https://knowbility.org/programs/accessu-2021/making-inclusive-charts)
+
 * [Invisible Visualization – Reinventing Fire](http://schepers.cc/invisible-visualization)  (2014)
 
 * [Why Accessibility Is at the Heart of Data Visualization](https://medium.com/nightingale/accessibility-is-at-the-heart-of-data-visualization-64a38d6c505b)  (2020)
@@ -18,8 +20,25 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 ### [Data Visualization Society [Home page]](http://datavisualizationsociety.com/)  (org)  [DataVizSociety Twitter](https://twitter.com/datavizsociety?lang=en)  run by  [@AmyCesal](https://twitter.com/amycesal?lang=en)  and  [@abmakulec](https://twitter.com/abmakulec?lang=en)  and many others (to be listed)
 *  [Accessibility – Nightingale – Medium](https://medium.com/nightingale/tagged/accessibility) 
 
-### Frank Elavsky (he/him)  [Frank Elavsky Twitter](https://twitter.com/frankelavsky?lang=en) 
-*  [Data Visualization and Accessibility on the Web](https://knowbility.org/programs/accessu/2020/data-visualization-and-accessibility-on-the-web/)
+### Frank Elavsky (he/him)  [Frank Elavsky Twitter](https://twitter.com/frankelavsky?lang=en)
+*  [Chartability, an auditing framework for data visualizations](https://chartability.fizz.studio/)
+
+*  [How to Integrate Accessibility into Your Data Viz Workflow | Data Viz Today | May 2021](https://dataviztoday.com/shownotes/63)
+
+*  [Accessibility in DataViz | Tableau World Podcast | May 2021](https://tableauwannabepodcast.libsyn.com/ep231-accessibility-in-dataviz-with-frank-elevasky)
+
+*  [Entering Uncharted Territory: Accessible Data Visualization | Accessibility Camp Bay Area | May 2021](https://www.accessibilitycampbay.org/2021talks.php#track-a-4)
+
+*  [Accessibility is Critical to Data Visualization | NoVA UX | April 2021](https://www.meetup.com/nova-ux/events/276045771/)
+
+*  [How to Stop Designing Inaccessible Data Visualizations | NICAR 2021 | March 2021](https://vimeo.com/551549654)
+
+*  [Are Your Data Visualizations Excluding People? | Outlier Conf | February 2021](https://www.youtube.com/watch?v=SWB-KLXN-Ok)
+
+*  [Introduction to Accessible Data Visualization | Knowbility | December 2020](https://knowbility.org/services/online-training/accessible-data-visualization)
+
+*  [Data Visualization and Accessibility on the Web | Knowbility | May 2020](https://knowbility.org/programs/accessu-2020/data-visualization-and-accessibility-on-the-web/)
+
 *  [Data Visualization and Accessibility on the Web - slides](https://drive.google.com/file/d/1OFmCvSt6bGk7u0kH6Kf5tIVQPMZ-wEKw/view?usp=sharing)
 
 ### Amy Cesal (she/her)  [Amy Cesal Twitter](https://twitter.com/amycesal?lang=en) 
@@ -34,11 +53,24 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 
 ### Melanie Mazanec  [Melanie Mazanec Twitter](https://twitter.com/mmazanec22) 
 *  [Data Visualization Accessibility: Where Are We Now, and What’s Next?](https://medium.com/nightingale/data-visualization-accessibility-where-are-we-now-and-whats-next-b2c9eeac4e8b) 
+*  [Semiotic's Accessibility Guide](https://semiotic.nteract.io/guides/accessibility)
+*  [Data Vis Accessibility Collaboration Doc](https://docs.google.com/document/d/1ZF6rygbqf8xPSmjiBQuImd9DwS3v7Rjlqs3DBfgVcm4/edit?usp=sharing)
 
 ### Sarah L. Fossheim (they/them)  [Sarah L. Fossheim Twitter](https://twitter.com/liatrisbian?lang=en) 
+*  [How to create a screen reader accessible graph like Apple's with D3.js](https://fossheim.io/writing/posts/apple-dataviz-a11y-tutorial/)
+
+*  [Are Your Data Visualizations Excluding People? | Outlier Conf | February 2021](https://www.youtube.com/watch?v=SWB-KLXN-Ok)
+
+*  [What we can learn from Apple's dataviz accessibility](https://fossheim.io/writing/posts/apple-health-dataviz-a11y/)
+
+*  [How (not) to make accessible data visualizations, illustrated by the US presidential election.](https://fossheim.io/writing/posts/accessible-dataviz-us-elections/)
+
 *  [An intro to designing accessible data visualizations](https://fossheim.io/writing/posts/accessible-dataviz-design/) 
 
 *  [An introduction to accessible data visualizations with D3.js](https://fossheim.io/writing/posts/accessible-dataviz-d3-intro/) 
+
+### Larene Le Gassick (she/her) [Larene Le Gassick Twitter](https://twitter.com/larenelg?lang=en)
+*  [Are Your Data Visualizations Excluding People? | Outlier Conf | February 2021](https://www.youtube.com/watch?v=SWB-KLXN-Ok)
 
 ### Lindsey (she/her)  [Lindsey Twitter](https://twitter.com/littlekope?lang=en) 
 *  [Accessibility in d3 Donut Charts](https://www.a11ywithlindsey.com/blog/accessibility-d3-donut-charts) 
@@ -122,12 +154,14 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 *  [Accessibility in Chart.js](https://www.chartjs.org/docs/latest/general/accessibility.html)
 
 ### Vega & Vega-Lite
-
 * [Flight Passengers Example](https://vega.github.io/vega/examples/flight-passengers/)
+
+### Semiotic
+* [Semiotic Accessibility Guide](https://semiotic.nteract.io/guides/accessibility)
 
 ### Visa Chart Components
 * [Visa Chart Components (VCC) Github](https://github.com/visa/visa-chart-components)
-* [VCC Accessibility Utility](https://github.com/visa/visa-chart-components/blob/master/packages/utils/README.md#accessibility)
+* [VCC Accessibility Utilities](https://github.com/visa/visa-chart-components/blob/master/packages/utils/README.md#accessibility)
 * [VCC Color Utilities](https://github.com/visa/visa-chart-components/blob/master/packages/utils/README.md#colors)
 * [VCC Texture Utility](https://github.com/visa/visa-chart-components/blob/master/packages/utils/README.md#textures)
 
@@ -149,6 +183,29 @@ Ref: Lundgard, A., Lee, C., & Satyanarayan, A. (2019, October). Sociotechnical C
 [Designing communicative visualization for people with intellectual developmental disabilities [PDF Viewer]](https://osf.io/zbjhr)
 
 Ref: Wu, K., Tanis, S., & Szafir, D. (2019). Designing communicative visualization for people with intellectual developmental disabilities.
+
+### [Understanding Data Accessibility for People with Intellectual and Developmental Disabilities [Project Page]](http://cu-visualab.org/IDD/idd/index.html)
+
+[Understanding Data Accessibility for People with Intellectual and Developmental Disabilities [PDF Viewer]](http://cu-visualab.org/IDD/idd/assets/idd.pdf)
+
+Ref: Keke Wu et al (2021). Understanding Data Accessibility for People with Intellectual and Developmental Disabilities.
+
+### [Generating Seizure-Inducing Sequences with Interactive Visualizations [PDF Viewer]](https://osf.io/85gwy/)
+
+Ref: South, L., Borkin, M. (2021). Generating Seizure-Inducing Sequences with Interactive Visualizations.
+
+### [Visualization is Not Enough [Slides]](https://homes.cs.washington.edu/~jheer/talks/EuroVis2019-Capstone.pdf)
+
+Ref: Heer, Jeffrey (2019). Visualization is not Enough.
+
+(Note: see the epilogue from slide 97 an onwards.)
+
+### [Effective Practices for Description of Science Content within Digital Talking Books](https://www.wgbh.org/foundation/ncam/guidelines/effective-practices-for-description-of-science-content-within-digital-talking-books)
+
+Ref: Gould, B., O'Connell, T., and Freed, G. (2008). Effective Practices for Description of Science Content within Digital Talking Books.
+
+### [Image Description Template [Tool]](http://valeriemorash.com/imageDescription.html)
+Ref: Morash, V., Siu, Y. -T., Miele, J.A., Hasty, L., & Landau, S. (2015). Guiding novice web workers in making image descriptions using templates.
 
 ### [Visualizing for the Non‐Visual: Enabling the Visually Impaired to Use Visualization [PDF]](http://users.umiacs.umd.edu/~elm/projects/vis4nonvisual/vis4nonvisual.pdf)
 
