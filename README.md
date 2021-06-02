@@ -115,10 +115,18 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 ### Alison Bert  [Alison Bert Twitter](https://twitter.com/alisonbert?lang=en) 
 *  [Making charts accessible for people with visual impairments](https://www.elsevier.com/connect/making-charts-accessible-for-people-with-visual-impairments) 
 
+### Øystein Moseng  [Øystein Moseng Twitter](https://twitter.com/oysteinmoseng?lang=en) 
+*  [10 Guidelines for DataViz Accessibility](https://www.highcharts.com/blog/tutorials/10-guidelines-for-dataviz-accessibility/)
+
 ### Øystein Moseng  [Øystein Moseng Twitter](https://twitter.com/oysteinmoseng?lang=en)  & Ted Gies  [Ted Gies Twitter](https://twitter.com/tedgies1?lang=en) 
 *  [CSUN 2020 Accessible Visualizations: Maps, Annotations, and Spark lines [SlideShare]](https://www.slideshare.net/tedgies/csun-2020-accessible-visualizations-maps-annotations-and-spark-lines) 
 
 *  [Highsoft & Elsevier talk about Chart Accessibility at CSUN 2019 [YouTube]](https://www.youtube.com/watch?v=kwCOxZ6JJ6I) 
+
+### Silvia Canelón  [Silvia Canelón Twitter](https://twitter.com/spcanelon)  & Liz Hare  [Liz Hare Twitter](https://twitter.com/DogGeneticsLLC) 
+*  [Revealing Room for Improvement in Accessibility within a Social Media Data Visualization Learning Community](https://silvia.rbind.io/talk/2021-05-04-data-viz-accessibility/) 
+
+*  [Revealing Room for Improvement [Github Repo]](https://github.com/spcanelon/csvConf2021)
 
 ### Ryan Bales  [Ryan Bales Twitter](https://twitter.com/ryan_bales?lang=en)  (not accessibility, but good chart design tips)
 *  [Designing Charts — Principles Every Designer Should Know | by Ryan Bales](https://uxdesign.cc/designing-charts-principles-every-designer-should-know-5bd3969a0150) 
