@@ -2,6 +2,8 @@
 
 A non-exhaustive and in-progress list of people and resources in Accessibility and Data Visualization
 
+---
+
 ## People and Articles in Dataviz & Accessibility (Web)
 
 ### Ryan Bales  [Ryan Bales Twitter](https://twitter.com/ryan_bales?lang=en)  (not accessibility, but good chart design tips)
@@ -139,6 +141,8 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 *  [Accessible SVG Line Graphs](https://tink.uk/accessible-svg-line-graphs/)
 *  [Accessible SVG Tables](https://tink.uk/accessible-svg-tables/)
 
+---
+
 ## Organizational Guidance in Dataviz & Accessibility (Web)
 
 ### [Data Visualization Society [Home page]](http://datavisualizationsociety.com/)  (org)  [DataVizSociety Twitter](https://twitter.com/datavizsociety?lang=en)  run by  [@AmyCesal](https://twitter.com/amycesal?lang=en)  and  [@abmakulec](https://twitter.com/abmakulec?lang=en)  and many others (to be listed)
@@ -150,6 +154,7 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 ### Government Digital Service (UK)  [Government Digital Service (UK) Twitter](https://twitter.com/gdsteam?lang=en) 
 *  [Images - Content design: planning, writing and managing content - Guidance - GOV.UK](https://www.gov.uk/guidance/content-design/images#make-sure-the-diagram-is-accessible-to-everyone) 
 
+---
 
 ## Javascript Dataviz Frameworks with Accessibility
 
@@ -173,6 +178,8 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 * [VCC Accessibility Utilities](https://github.com/visa/visa-chart-components/blob/master/packages/utils/README.md#accessibility)
 * [VCC Color Utilities](https://github.com/visa/visa-chart-components/blob/master/packages/utils/README.md#colors)
 * [VCC Texture Utility](https://github.com/visa/visa-chart-components/blob/master/packages/utils/README.md#textures)
+
+---
 
 ##  People and Articles in Dataviz & Accessibility (Academia)
 
