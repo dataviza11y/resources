@@ -133,7 +133,7 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 
 *  [Designing Charts: principles every designer should know (part 2) - Ryan Bales](https://uxdesign.cc/designing-charts-principles-every-designer-should-know-part-2-ce1e06af56fc) 
 
-### Lisa Charlotte Rost  [Lisa Charlotte Rost Twitter](https://twitter.com/lisacrost) 
+### Lisa Charlotte Muth  [Lisa Charlotte Muth Twitter](https://twitter.com/lisacrost) 
 *  [What to Consider When Choosing Colors for Data Visualization](https://www.dataquest.io/blog/what-to-consider-when-choosing-colors-for-data-visualization/) 
 
 ### Chris DeMartini  [Chris DeMartini Twitter](https://twitter.com/demartsc) 
