@@ -22,6 +22,9 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 
 *  [Revealing Room for Improvement [Github Repo]](https://github.com/spcanelon/csvConf2021)
 
+### William Careri (he/him) [William Careri Twitter](https://twitter.com/WCareri) 
+*  [Designing for Neurodivergent Audiences | by William Careri | Nightingale | Feb, 2021](https://nightingaledvs.com/designing-for-neurodivergent-audiences/) 
+
 ### Amy Cesal (she/her)  [Amy Cesal Twitter](https://twitter.com/amycesal?lang=en) 
 *  [Writing Alt Text for Data Visualization | by Amy Cesal | Nightingale | Jul, 2020](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81) 
 
