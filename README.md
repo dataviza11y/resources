@@ -182,8 +182,10 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 * [VCC Color Utilities](https://github.com/visa/visa-chart-components/blob/master/packages/utils/README.md#colors)
 * [VCC Texture Utility](https://github.com/visa/visa-chart-components/blob/master/packages/utils/README.md#textures)
 
+## Javascript Tools that can Assist with Visualization Accessibility
+
 ### Chart2Music
-* A visual-agnostic tool to add keyboard navigation and sonification to charts. While not a framework, it can be used to augment accessibility for other dataviz frameworks
+* A visual-agnostic tool to add keyboard navigation and sonification to charts.
 * [Chart2Music documentation site](https://chart2music.com/docs/)
 * [Chart2Music CodePen examples](https://codepen.io/collection/BNedqm)
 
