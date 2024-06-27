@@ -191,7 +191,7 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 
 ### AutoVizuA11y
 
-* React library that automates the process of creating accessible data visualizations for screen reader users.
+* React library that automates the process of adding keyboard navigation, data descriptions, and keyboard shortcuts for data visualizations.
 * [AutoVizuA11y Github repo](https://github.com/feedzai/AutoVizuA11y)
 * [AutoVizuA11y examples site](https://diogorduarte.github.io/autovizua11y-examples/)
 
