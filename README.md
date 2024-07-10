@@ -189,6 +189,12 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 * [Chart2Music documentation site](https://chart2music.com/docs/)
 * [Chart2Music CodePen examples](https://codepen.io/collection/BNedqm)
 
+### AutoVizuA11y
+
+* React library that automates the process of adding keyboard navigation, data descriptions, and keyboard shortcuts for data visualizations.
+* [AutoVizuA11y Github repo](https://github.com/feedzai/AutoVizuA11y)
+* [AutoVizuA11y examples site](https://diogorduarte.github.io/autovizua11y-examples/)
+
 ---
 
 ##  People and Articles in Dataviz & Accessibility (Academia)
@@ -261,3 +267,7 @@ Ref: Heer, Jeffrey (2019). Visualization is not Enough.
 ### [Visualizing for the Non‐Visual: Enabling the Visually Impaired to Use Visualization [PDF]](http://users.umiacs.umd.edu/~elm/projects/vis4nonvisual/vis4nonvisual.pdf)
 
 Ref: Choi, J., Jung, S., Park, D. G., Choo, J., & Elmqvist, N. (2019, June). Visualizing for the Non‐Visual: Enabling the Visually Impaired to Use Visualization. In *Computer Graphics Forum* (Vol. 38, No. 3, pp. 249-260).
+
+### [AutoVizuA11y: A Tool to Automate Screen Reader Accessibility in Charts [PDF]](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.15099)
+
+Ref: Duarte D., Costa R., Bizarro P., Duarte C. (2024, June). AutoVizuA11y: a tool to automate screen reader accessibility in charts. In *Computer Graphics Forum* (Vol. 43, No. 3).
