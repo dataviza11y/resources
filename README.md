@@ -268,6 +268,6 @@ Ref: Heer, Jeffrey (2019). Visualization is not Enough.
 
 Ref: Choi, J., Jung, S., Park, D. G., Choo, J., & Elmqvist, N. (2019, June). Visualizing for the Non‐Visual: Enabling the Visually Impaired to Use Visualization. In *Computer Graphics Forum* (Vol. 38, No. 3, pp. 249-260).
 
-### [AutoVizuA11y: A Tool to Automate Screen Reader Accessibility in Charts [PDF]](https://onlinelibrary.wiley.com/doi/10.1111/cgf.15099)
+### [AutoVizuA11y: A Tool to Automate Screen Reader Accessibility in Charts [PDF]](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.15099)
 
 Ref: Duarte D., Costa R., Bizarro P., Duarte C. (2024, June). AutoVizuA11y: a tool to automate screen reader accessibility in charts. In *Computer Graphics Forum* (Vol. 43, No. 3).
