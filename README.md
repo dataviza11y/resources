@@ -6,26 +6,26 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 
 ## People and Articles in Dataviz & Accessibility (Web)
 
-### Ryan Bales  [Ryan Bales Twitter](https://twitter.com/ryan_bales?lang=en)  (not accessibility, but good chart design tips)
+### Ryan Bales  (not accessibility, but good chart design tips)
 *  [Designing Charts — Principles Every Designer Should Know | by Ryan Bales](https://uxdesign.cc/designing-charts-principles-every-designer-should-know-5bd3969a0150) 
 
 *  [Designing Charts: principles every designer should know (part 2) - Ryan Bales](https://uxdesign.cc/designing-charts-principles-every-designer-should-know-part-2-ce1e06af56fc) 
 
-### Amelia Bellamy (she/her)  [Amelia Bellamy Twitter](https://twitter.com/ameliasbrain?lang=en) 
+### Amelia Bellamy (she/her)  [Amelia Bellamy Mastodon](https://front-end.social/@AmeliaBR) 
 *  [Using SVG with CSS3 and HTML5 [Book]](https://www.oreilly.com/library/view/using-svg-with/9781491921968/) (Chapter 17. "Beyond the Visible")
 
 ### Alison Bert  [Alison Bert Twitter](https://twitter.com/alisonbert?lang=en) 
 *  [Making charts accessible for people with visual impairments](https://www.elsevier.com/connect/making-charts-accessible-for-people-with-visual-impairments) 
 
-### Silvia Canelón  [Silvia Canelón Twitter](https://twitter.com/spcanelon)  & Liz Hare  [Liz Hare Twitter](https://twitter.com/DogGeneticsLLC) 
+### Silvia Canelón  [Silvia Canelón Bluesky](https://bsky.app/profile/silviacanelon.com)  & Liz Hare  [Liz Hare Mastodon](https://fosstodon.org/@lizhare) 
 *  [Revealing Room for Improvement in Accessibility within a Social Media Data Visualization Learning Community](https://silvia.rbind.io/talk/2021-05-04-data-viz-accessibility/) 
 
 *  [Revealing Room for Improvement [Github Repo]](https://github.com/spcanelon/csvConf2021)
 
-### William Careri (he/him) [William Careri Twitter](https://twitter.com/WCareri) 
+### William Careri (he/him)
 *  [Designing for Neurodivergent Audiences | by William Careri | Nightingale | Feb, 2021](https://nightingaledvs.com/designing-for-neurodivergent-audiences/) 
 
-### Amy Cesal (she/her)  [Amy Cesal Twitter](https://twitter.com/amycesal?lang=en) 
+### Amy Cesal (she/her)  [Amy Cesal Bluesky](https://bsky.app/profile/amycesal.com) 
 *  [Writing Alt Text for Data Visualization | by Amy Cesal | Nightingale | Jul, 2020](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81) 
 
 *  [5 easy ways to make your data visualization more accessible](http://www.storytellingwithdata.com/blog/2018/6/26/accessible-data-viz-is-better-data-viz) 
@@ -34,7 +34,7 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 *  [A Tableau Accessibility Journey - Part I](https://www.datablick.com/blog/2021/2/4/a-tableau-accessibility-journey-part-i) 
 
 
-### Frank Elavsky (he/him)  [Frank Elavsky Twitter](https://twitter.com/frankelavsky?lang=en)
+### Frank Elavsky (he/him)  [Frank Elavsky Bluesky](https://bsky.app/profile/frank.computer)
 *  [Chartability, an auditing framework for data visualizations](https://chartability.fizz.studio/)
 
 *  [How to Integrate Accessibility into Your Data Viz Workflow | Data Viz Today | May 2021](https://dataviztoday.com/shownotes/63)
@@ -55,12 +55,12 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 
 *  [Data Visualization and Accessibility on the Web - slides](https://drive.google.com/file/d/1OFmCvSt6bGk7u0kH6Kf5tIVQPMZ-wEKw/view?usp=sharing)
 
-### Stephanie Evergreen  [Stephanie Evergreen Twitter](https://twitter.com/evergreendata) 
+### Stephanie Evergreen  [Stephanie Evergreen Instagram](https://www.instagram.com/evergreendata/) 
 *  [508 Compliance & Data Visualization](https://stephanieevergreen.com/508-compliance-data-visualization/) 
 
 *  [508 Compliance Tools](https://stephanieevergreen.com/508-compliance-tools/) 
 
-### Sarah L. Fossheim (they/them)  [Sarah L. Fossheim Twitter](https://twitter.com/liatrisbian?lang=en) 
+### Sarah L. Fossheim (they/them)  [Sarah L. Fossheim Bluesky](https://bsky.app/profile/fossheim.bsky.social) 
 *  [How to create a screen reader accessible graph like Apple's with D3.js](https://fossheim.io/writing/posts/apple-dataviz-a11y-tutorial/)
 
 *  [Are Your Data Visualizations Excluding People? | Outlier Conf | February 2021](https://www.youtube.com/watch?v=SWB-KLXN-Ok)
@@ -76,23 +76,23 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 ### Dr. John Gardner  [Dr. John Gardner Twitter](https://twitter.com/viewplus?lang=en) 
 *  [Video: “Improving Science Accessibility for the Blind” - August 13, 2014](http://scarc.library.oregonstate.edu/oh150/gardner/video-gardner.html) 
 
-### Luc Guillemot  [Luc Guillemot Twitter](https://twitter.com/lucguillemot) 
+### Luc Guillemot  [Luc Guillemot Mastodon](https://vis.social/@Luc) 
 *  [How Does This Data Sound?. Make your data accessible, sound up. | by Luc Guillemot](https://blog.interactivethings.com/how-does-this-data-sound-945ed27a1a95) 
 
-### Sarah Higley [Sarah Higley Twitter](https://twitter.com/codingchaos?lang=en) 
+### Sarah Higley [Sarah Higley Mastodon](https://vis.social/@codingchaos) 
 *  [Accessibility and Data Visualization — Data Visualization Society](https://www.datavisualizationsociety.com/fireside-chats-1/2020/5/21/accessibility-and-data-visualization)  [ [Communal Notes - Fireside Chat Accessible Data Viz](https://docs.google.com/document/d/1X0Rk8Q7TEbw3dHvpwo2d1x3-SYqcPtXfW8ZRPfUWdl8/edit) ]
 
-### Peter Holmes  [Peter Holmes Twitter](https://twitter.com/petergholmes) 
+### Peter Holmes
 *  [Making data visualization accessible — a case study | by Peter Holmes](https://uxdesign.cc/making-data-visualization-accessible-a-case-study-e5fb41ac62ad) 
 
-### Sergei Kruger [Sergei Kruger Twitter](https://twitter.com/_sergeikriger)
+### Sergei Kruger [Sergei Kruger Bluesky](https://bsky.app/profile/sergeikriger.com)
 *  [Talk: Accessible Charts Done Right](https://www.youtube.com/watch?v=ayl2ue9vIFc)
 *  [Slides: Accessible Charts Done Right](https://www.sergeikriger.com/slides/accessible-charts-done-right/)
 
-### Larene Le Gassick (she/her) [Larene Le Gassick Twitter](https://twitter.com/larenelg?lang=en)
+### Larene Le Gassick (she/her) [Larene Le Gassick Bluesky](https://bsky.app/profile/larene.dev)
 *  [Are Your Data Visualizations Excluding People? | Outlier Conf | February 2021](https://www.youtube.com/watch?v=SWB-KLXN-Ok)
 
-### Lindsey (she/her)  [Lindsey Twitter](https://twitter.com/littlekope?lang=en) 
+### Lindsey (she/her)  [Lindsey Bluesky](https://bsky.app/profile/littlekope.bsky.social) 
 *  [Accessibility in d3 Donut Charts](https://www.a11ywithlindsey.com/blog/accessibility-d3-donut-charts) 
 
 *  [Accessibility in d3 Bar Charts](https://www.a11ywithlindsey.com/blog/accessibility-d3-bar-charts) 
@@ -102,10 +102,9 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 
 *  [Where Is the Rush to Visualize the Public Health Crisis of Racism?](https://medium.com/nightingale/data-visualization-racism-a4521a1864d1) 
 
-### Melanie Mazanec  [Melanie Mazanec Twitter](https://twitter.com/mmazanec22) 
+### Melanie Mazanec
 *  [Data Visualization Accessibility: Where Are We Now, and What’s Next?](https://medium.com/nightingale/data-visualization-accessibility-where-are-we-now-and-whats-next-b2c9eeac4e8b) 
 *  [Semiotic's Accessibility Guide](https://semiotic.nteract.io/guides/accessibility)
-*  [Data Vis Accessibility Collaboration Doc](https://docs.google.com/document/d/1ZF6rygbqf8xPSmjiBQuImd9DwS3v7Rjlqs3DBfgVcm4/edit?usp=sharing)
 
 ### Øystein Moseng  [Øystein Moseng Twitter](https://twitter.com/oysteinmoseng?lang=en) 
 *  [10 Guidelines for DataViz Accessibility](https://www.highcharts.com/blog/tutorials/10-guidelines-for-dataviz-accessibility/)
@@ -121,7 +120,7 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 ### Cole Nussbaumer Knaflic  [Cole Nussbaumer Knaflic Twitter](https://twitter.com/storywithdata?lang=en) 
 * [Storytelling with Data: A Data Visualization Guide for Business Professionals [Book]](https://www.amazon.com.au/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)
 
-### Doug Schepers [Doug Schepers Twitter](https://twitter.com/shepazu?lang=en) 
+### Doug Schepers [Doug Schepers Bluesky](https://bsky.app/profile/shepazu.bsky.social) 
 * [Making Inclusive Charts | AccessU | May 2021](https://knowbility.org/programs/accessu-2021/making-inclusive-charts)
 
 * [Invisible Visualization – Reinventing Fire](http://schepers.cc/invisible-visualization)  (2014)
@@ -140,7 +139,7 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 ### Ed Summers  [Ed Summers Twitter](https://twitter.com/edsummersnc?lang=en) 
 *  [How we created a culture of accessibility at SAS](https://www.linkedin.com/pulse/how-we-created-culture-accessibility-sas-ed-summers/) 
 
-### Leonie Watson [Leonie Watson Twitter](https://twitter.com/LeonieWatson)
+### Leonie Watson [Leonie Watson Bluesky](https://bsky.app/profile/tink.uk)
 *  [Accessible SVG Line Graphs](https://tink.uk/accessible-svg-line-graphs/)
 *  [Accessible SVG Tables](https://tink.uk/accessible-svg-tables/)
 
