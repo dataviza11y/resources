@@ -31,8 +31,17 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 *  [5 easy ways to make your data visualization more accessible](http://www.storytellingwithdata.com/blog/2018/6/26/accessible-data-viz-is-better-data-viz) 
 
 ### Chris DeMartini  [Chris DeMartini Twitter](https://twitter.com/demartsc) 
-*  [A Tableau Accessibility Journey - Part I](https://www.datablick.com/blog/2021/2/4/a-tableau-accessibility-journey-part-i) 
+*  [A Tableau Accessibility Journey - Part I](https://www.datablick.com/blog/2021/2/4/a-tableau-accessibility-journey-part-i)
 
+### Kent Eisenhuth (he/him) [Kent Eisenhuth LinkedIn](http://linkedin.com/in/kenteisenhuth)
+
+* [Guiding Principles for Data Accessibility | Kent Eisenhuth & Gerrit de Vries | Material Design ](https://m3.material.io/blog/data-visualization-accessibility)
+
+* [Writing Alt Text for Charts | Material Design](https://m3.material.io/foundations/content-design/alt-text#10c74949-c9e0-46a4-bfd9-eca356430e7d)
+
+* [How Accessibility Standards Can Empower Better Chart Visual Design | Smashing Magazine](https://www.smashingmagazine.com/2024/02/accessibility-standards-empower-better-chart-visual-design/)
+
+* [An Accessibility-First Approach to Chart Visual Design | Kent Eisenhuth & Kai Chang | Smashing Magazine](https://www.smashingmagazine.com/2022/07/accessibility-first-approach-chart-visual-design/)
 
 ### Frank Elavsky (he/him)  [Frank Elavsky Bluesky](https://bsky.app/profile/frank.computer)
 *  [Chartability, an auditing framework for data visualizations](https://chartability.fizz.studio/)
