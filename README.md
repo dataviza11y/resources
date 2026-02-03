@@ -1,6 +1,8 @@
 # Dataviz Accessibility Resources
 
-A non-exhaustive and in-progress list of people and resources in Accessibility and Data Visualization
+A non-exhaustive and in-progress list of people and resources in Accessibility and Data Visualization.
+
+[*Latest update: Feb 2026*]
 
 ---
 
@@ -46,23 +48,16 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 ### Frank Elavsky (he/him)  [Frank Elavsky Bluesky](https://bsky.app/profile/frank.computer)
 *  [Chartability, an auditing framework for data visualizations](https://chartability.fizz.studio/)
 
-*  [How to Integrate Accessibility into Your Data Viz Workflow | Data Viz Today | May 2021](https://dataviztoday.com/shownotes/63)
+*  [Chartability's workbook (includes all test, tools, and details)](https://chartability.fizz.studio/)
 
-*  [Accessibility in DataViz | Tableau World Podcast | May 2021](https://tableauwannabepodcast.libsyn.com/ep231-accessibility-in-dataviz-with-frank-elevasky)
-
-*  [Entering Uncharted Territory: Accessible Data Visualization | Accessibility Camp Bay Area | May 2021](https://www.accessibilitycampbay.org/2021talks.php#track-a-4)
-
-*  [Accessibility is Critical to Data Visualization | NoVA UX | April 2021](https://www.meetup.com/nova-ux/events/276045771/)
-
-*  [How to Stop Designing Inaccessible Data Visualizations | NICAR 2021 | March 2021](https://vimeo.com/551549654)
-
-*  [Are Your Data Visualizations Excluding People? | Outlier Conf | February 2021](https://www.youtube.com/watch?v=SWB-KLXN-Ok)
-
-*  [Introduction to Accessible Data Visualization | Knowbility | December 2020](https://knowbility.org/services/online-training/accessible-data-visualization)
-
-*  [Data Visualization and Accessibility on the Web | Knowbility | May 2020](https://knowbility.org/programs/accessu-2020/data-visualization-and-accessibility-on-the-web/)
-
-*  [Data Visualization and Accessibility on the Web - slides](https://drive.google.com/file/d/1OFmCvSt6bGk7u0kH6Kf5tIVQPMZ-wEKw/view?usp=sharing)
+*  [A free, 200+ page audit of Bokeh (python visualization library) using Chartability](https://bokeh-a11y-audit.readthedocs.io/)
+  
+*  [Data Navigator, a generic tool for making visual data structures navigable](https://dig.cmu.edu/data-navigator/)
+*  ["Accessibility in visualization," a free and open, 5-chapter, 20-module online course](https://openvisualizationacademy.org/courses/accessibility-in-data-visualization/introduction/introduction/)
+*  ["Centering accessibility in visualization" (free book)](https://www.urban.org/sites/default/files/2022-12/Do%20No%20Harm%20Guide%20Centering%20Accessibility%20in%20Data%20Visualization.pdf)
+*  [(Keynote) On "Tool-making for accessibility and visualization" at DDD Brisbane '25](https://www.youtube.com/watch?v=W9LDW-t09oY)
+*  [(Talk) On "Softerware" at Outlier '25](youtube.com/watch?si=txsujzPn53hOxqms&v=IleWP0gCeOc&feature=youtu.be)
+*  [(Talk) Accessibility and visualization at NACIS '23'](https://www.youtube.com/watch?v=wqvDFYMIFYI)
 
 ### Stephanie Evergreen  [Stephanie Evergreen Instagram](https://www.instagram.com/evergreendata/) 
 *  [508 Compliance & Data Visualization](https://stephanieevergreen.com/508-compliance-data-visualization/) 
@@ -154,16 +149,32 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 
 ---
 
-## Organizational Guidance in Dataviz & Accessibility (Web)
+## Organizational Guidance and Communities in Dataviz & Accessibility (Web)
 
-### [Data Visualization Society [Home page]](http://datavisualizationsociety.com/)  (org)  [DataVizSociety Twitter](https://twitter.com/datavizsociety?lang=en)  run by  [@AmyCesal](https://twitter.com/amycesal?lang=en)  and  [@abmakulec](https://twitter.com/abmakulec?lang=en)  and many others (to be listed)
+### A11y community
+*  **Note**: [Join their slack and the "a11y-data-viz-metrics" channel for a live community of support!](https://accessibility.github.io/a11yslack/) 
+
+### Data Visualization Society Home page
+*  [Data Visualization Society [Home page]](http://datavisualizationsociety.com/)
+*  **Note**: [Join their slack and the "topic-accessibility" channel for a live community of support!](https://www.datavisualizationsociety.org/slack-community)
 *  [Accessibility – Nightingale](https://nightingaledvs.com/tag/accessibility/) 
 
 ### Digital Government (USA)
-*  [Data visualizations | Visual design](https://accessibility.digital.gov/visual-design/data-visualizations/) 
+*  [Data visualizations | Visual design](https://accessibility.digital.gov/visual-design/data-visualizations/)
 
-### Government Digital Service (UK)  [Government Digital Service (UK) Twitter](https://twitter.com/gdsteam?lang=en) 
-*  [Images - Content design: planning, writing and managing content - Guidance - GOV.UK](https://www.gov.uk/guidance/content-design/images#make-sure-the-diagram-is-accessible-to-everyone) 
+### Harvard's Digital Accessibility Services
+*  [Accessibility for Data Visualizations, Charts, and Graphs](https://accessibility.huit.harvard.edu/data-viz-charts-graphs)
+
+### UK Government
+*  Goverment Digital Service [Images - Content design: planning, writing and managing content - Guidance - GOV.UK](https://www.gov.uk/guidance/content-design/images#make-sure-the-diagram-is-accessible-to-everyone) 
+*  Analysis Function Central Team (Office for National Statistics, UK) [Introduction to data visualization (includes notes on accessibility)](https://analysisfunction.civilservice.gov.uk/support/communicating-analysis/introduction-to-data-visualisation-e-learning/)
+
+### University of Iowa Accessibility
+*  [Providing More Accessible Data Visualizations](https://itaccessibility.uiowa.edu/dataviz)
+
+
+### UW-Madison's IT
+*  [Accessible Data Visualizations Guide](https://it.wisc.edu/learn/make-it-accessible/accessible-data-visualizations/)
 
 ---
 
@@ -175,6 +186,9 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 ### Chart.js
 *  [Accessibility in Chart.js](https://www.chartjs.org/docs/latest/general/accessibility.html)
 
+### Flourish
+*  [Accessibility in Flourish](https://flourish.studio/accessibility/)
+
 ### Highcharts
 *  [Highcharts Accessibility Demos](https://www.highcharts.com/a11y.html) 
 
@@ -185,6 +199,7 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 * [Flight Passengers Example](https://vega.github.io/vega/examples/flight-passengers/)
 
 ### Visa Chart Components
+Fully free and open-source design system library of "accessibility-first" data visualization components.
 * [Visa Chart Components (VCC) Github](https://github.com/visa/visa-chart-components)
 * [VCC Accessibility Utilities](https://github.com/visa/visa-chart-components/blob/master/packages/utils/README.md#accessibility)
 * [VCC Color Utilities](https://github.com/visa/visa-chart-components/blob/master/packages/utils/README.md#colors)
@@ -192,90 +207,33 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 
 ## Javascript Tools that can Assist with Visualization Accessibility
 
+### AutoVizuA11y
+
+React library that automates the process of adding keyboard navigation, data descriptions, and keyboard shortcuts for data visualizations.
+* [AutoVizuA11y Github repo](https://github.com/feedzai/AutoVizuA11y)
+* [AutoVizuA11y examples site](https://diogorduarte.github.io/autovizua11y-examples/)
+
 ### Chart2Music
-* A visual-agnostic tool to add keyboard navigation and sonification to charts.
+A visual-agnostic tool to add keyboard navigation and sonification to charts.
 * [Chart2Music documentation site](https://chart2music.com/docs/)
 * [Chart2Music CodePen examples](https://codepen.io/collection/BNedqm)
 
-### AutoVizuA11y
+### Data Navigator
+A robust toolkit for adding rich, customizable navigation to graphics and images.
+* [Data Navigator](https://dig.cmu.edu/data-navigator/)
+* [Demo making Vega-Lite more accessible](https://dig.cmu.edu/data-navigator/vega-lite)
 
-* React library that automates the process of adding keyboard navigation, data descriptions, and keyboard shortcuts for data visualizations.
-* [AutoVizuA11y Github repo](https://github.com/feedzai/AutoVizuA11y)
-* [AutoVizuA11y examples site](https://diogorduarte.github.io/autovizua11y-examples/)
+### Olli
+Olli is an open-source library for converting data visualizations into accessible text structures for screen reader users.
+* [Olli](https://umwelt-data.github.io/olli/)
+* [Examples](https://umwelt-data.github.io/olli/examples)
 
 ---
 
 ##  People and Articles in Dataviz & Accessibility (Academia)
 
-### [Access All Areas [PDF]](http://www.cis.rit.edu/people/faculty/ferwerda/press/nature_060205.pdf)
+NOTE: Previously, this section contained a long-form list of research papers and research-related artifacts that involved visualization accessiblity. However, keeping this list up-to-date has been cumbersome. Too many great papers have not been included while (for the sake of archival purposes), I've kept links to older papers in here.
 
-Ref: THOMPSON, D. (2005). Access all areas. *NATURE*, *435*, 2.### Visualisation tools for blind people using multiple modalities
+Instead, I (Frank Elavsky) now maintain a Google doc for my research assistants that contains a shortlist of the best research papers at this intersection as well as guides for learning how to effectively read research papers. This document is the best place to start (and it will be maintained moving forward):
 
-### [Design features of graphs in health risk communications: a systematic review [PDF]](https://scholar.google.com/scholar?output=instlink&q=info:0alS-UvkUHIJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=4042667095927380740&oi=lle)
-
-Ref: Ancker, J. S., Senathirajah, Y., Kukafka, R., & Starren, J. B. (2006). Design features of graphs in health risk communication: A systematic review. *Journal of the American Medical Informatics Association*, *13*(6), 608-618.
-
-
-### [Designing communicative visualization for people with intellectual developmental disabilities [PDF]](https://osf.io/zbjhr/download?format=pdf)
-
-[Designing communicative visualization for people with intellectual developmental disabilities [PDF Viewer]](https://osf.io/zbjhr)
-
-Ref: Wu, K., Tanis, S., & Szafir, D. (2019). Designing communicative visualization for people with intellectual developmental disabilities.
-
-### [Effective Practices for Description of Science Content within Digital Talking Books](https://www.wgbh.org/foundation/ncam/guidelines/effective-practices-for-description-of-science-content-within-digital-talking-books)
-
-Ref: Gould, B., O'Connell, T., and Freed, G. (2008). Effective Practices for Description of Science Content within Digital Talking Books.
-
-### [Generating Seizure-Inducing Sequences with Interactive Visualizations [PDF Viewer]](https://osf.io/85gwy/)
-
-Ref: South, L., Borkin, M. (2021). Generating Seizure-Inducing Sequences with Interactive Visualizations.
-
-### [Graph literacy: a cross-cultural comparison [PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.980.8590&rep=rep1&type=pdf)
-
-Ref: Galesic, M., & Garcia-Retamero, R. (2011). Graph literacy: A cross-cultural comparison. *Medical Decision Making*, *31*(3), 444-457.### Design features of graphs in health risk communications: a systematic review
-
-### [Image Description Template [Tool]](http://valeriemorash.com/imageDescription.html)
-Ref: Morash, V., Siu, Y. -T., Miele, J.A., Hasty, L., & Landau, S. (2015). Guiding novice web workers in making image descriptions using templates.
-
-### [Producing accessible statistics diagrams in R [PDF]](https://core.ac.uk/download/pdf/185503569.pdf)
-
-Ref: Fitzpatrick, D., Godfrey, A. J. R., & Sorge, V. (2017, April). Producing accessible statistics diagrams in R. In *Proceedings of the 14th Web for All Conference on the Future of Accessible Work* (pp. 1-4).
-
-### [Reaching Broader Audiences With Data Visualization](https://ieeexplore.ieee.org/document/9023497)
-
-[Reaching Broader Audiences With Data Visualization [PDF]](https://hal.inria.fr/hal-02459678/document)
-
-Ref: B. Lee, E. K. Choe, P. Isenberg, K. Marriott and J. Stasko, "Reaching Broader Audiences With Data Visualization," in IEEE Computer Graphics and Applications, vol. 40, no. 2, pp. 82-90, 1 March-April 2020, doi: 10.1109/MCG.2020.2968244.
-
-### [Sociotechnical Considerations for Accessible Visualization Design [PDF]](https://arxiv.org/pdf/1909.05118)
-
-Ref: Lundgard, A., Lee, C., & Satyanarayan, A. (2019, October). Sociotechnical Considerations for Accessible Visualization Design. In *2019 IEEE Visualization Conference (VIS)* (pp. 16-20). IEEE.
-
-### [Statistical Software from a Blind Person's Perspective [PDF]](https://journal.r-project.org/archive/2013/RJ-2013-007/RJ-2013-007.pdf)
-
-Ref: Godfrey, A. J. R. (2013). Statistical software from a blind person’s perspective. *The R Journal*, *5*(1), 73-79.### Graph literacy: a cross-cultural comparison
-
-### [Understanding Data Accessibility for People with Intellectual and Developmental Disabilities [Project Page]](http://cu-visualab.org/IDD/idd/index.html)
-
-[Understanding Data Accessibility for People with Intellectual and Developmental Disabilities [PDF Viewer]](http://cu-visualab.org/IDD/idd/assets/idd.pdf)
-
-Ref: Keke Wu et al (2021). Understanding Data Accessibility for People with Intellectual and Developmental Disabilities.
-
-### [Visualisation tools for blind people using multiple modalities [PDF]](https://eprints.gla.ac.uk/3234/01/visualisation1.pdf)
-
-Ref: Brewster, S. (2002). Visualization tools for blind people using multiple modalities. *Disability and rehabilitation*, *24*(11-12), 613-621.
-
-
-### [Visualization is Not Enough [Slides]](https://homes.cs.washington.edu/~jheer/talks/EuroVis2019-Capstone.pdf)
-
-Ref: Heer, Jeffrey (2019). Visualization is not Enough.
-
-(Note: see the epilogue from slide 97 an onwards.)
-
-### [Visualizing for the Non‐Visual: Enabling the Visually Impaired to Use Visualization [PDF]](http://users.umiacs.umd.edu/~elm/projects/vis4nonvisual/vis4nonvisual.pdf)
-
-Ref: Choi, J., Jung, S., Park, D. G., Choo, J., & Elmqvist, N. (2019, June). Visualizing for the Non‐Visual: Enabling the Visually Impaired to Use Visualization. In *Computer Graphics Forum* (Vol. 38, No. 3, pp. 249-260).
-
-### [AutoVizuA11y: A Tool to Automate Screen Reader Accessibility in Charts [PDF]](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.15099)
-
-Ref: Duarte D., Costa R., Bizarro P., Duarte C. (2024, June). AutoVizuA11y: a tool to automate screen reader accessibility in charts. In *Computer Graphics Forum* (Vol. 43, No. 3).
+* [Google doc with the top research papers on visualization and accessibility](https://docs.google.com/document/d/1U64Q-U9zB_aaKHDfy67F4_ONjV7HeuELIo6DP3HMvj4/edit?usp=sharing)
