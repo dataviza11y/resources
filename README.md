@@ -57,7 +57,7 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 *  ["Centering accessibility in visualization" (free book)](https://www.urban.org/sites/default/files/2022-12/Do%20No%20Harm%20Guide%20Centering%20Accessibility%20in%20Data%20Visualization.pdf)
 *  [(Keynote) On "Tool-making for accessibility and visualization" at DDD Brisbane '25](https://www.youtube.com/watch?v=W9LDW-t09oY)
 *  [(Talk) On "Softerware" at Outlier '25](youtube.com/watch?si=txsujzPn53hOxqms&v=IleWP0gCeOc&feature=youtu.be)
-*  [(Talk) Accessibility and visualization at NACIS '23'](https://www.youtube.com/watch?v=wqvDFYMIFYI)
+*  [(Talk) Accessibility and visualization at NACIS '23](https://www.youtube.com/watch?v=wqvDFYMIFYI)
 
 ### Stephanie Evergreen  [Stephanie Evergreen Instagram](https://www.instagram.com/evergreendata/) 
 *  [508 Compliance & Data Visualization](https://stephanieevergreen.com/508-compliance-data-visualization/) 
