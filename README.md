@@ -154,6 +154,9 @@ A non-exhaustive and in-progress list of people and resources in Accessibility a
 ### A11y community
 *  **Note**: [Join their slack and the "a11y-data-viz-metrics" channel for a live community of support!](https://accessibility.github.io/a11yslack/) 
 
+### Aeneia Signal (Polish)
+* [Wykres w kolorach marki: najpierw daj odczytać dane](https://blog.aeneia.pl/wykresy-w-jezyku-wizualnym-marki) - Guide to using brand colors in charts without relying on color alone; covers labels, scales, and text equivalents using a fictional example.
+
 ### Data Visualization Society Home page
 *  [Data Visualization Society [Home page]](http://datavisualizationsociety.com/)
 *  **Note**: [Join their slack and the "topic-accessibility" channel for a live community of support!](https://www.datavisualizationsociety.org/slack-community)
